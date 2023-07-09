@@ -1,0 +1,36 @@
+Added Component: Designator=J4(HDR_F_1X12)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C8 Pin=J4-3
+Added Pin To Net: NetName=C7 Pin=J4-6
+Added Pin To Net: NetName=C6 Pin=J4-9
+Added Pin To Net: NetName=C5 Pin=J4-12
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R7-2
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R10-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=R13-2
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-5
+Added Pin To Net: NetName=NetJ4_5 Pin=R15-2
+Added Net: Name=NetJ4_5
+Added Pin To Net: NetName=NetJ4_7 Pin=J4-7
+Added Pin To Net: NetName=NetJ4_7 Pin=R22-2
+Added Net: Name=NetJ4_7
+Added Pin To Net: NetName=NetJ4_8 Pin=J4-8
+Added Pin To Net: NetName=NetJ4_8 Pin=R24-2
+Added Net: Name=NetJ4_8
+Added Pin To Net: NetName=NetJ4_10 Pin=J4-10
+Added Pin To Net: NetName=NetJ4_10 Pin=R26-2
+Added Net: Name=NetJ4_10
+Added Pin To Net: NetName=NetJ4_11 Pin=J4-11
+Added Pin To Net: NetName=NetJ4_11 Pin=R28-2
+Added Net: Name=NetJ4_11

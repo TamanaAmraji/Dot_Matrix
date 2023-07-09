@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=LED1(LED_0805_RED)
+Added Component: Designator=R29(RES 0805_2012)
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=R4_R Pin=U1-13
+Added Pin To Net: NetName=R4_G Pin=U1-14
+Added Pin To Net: NetName=R3_R Pin=U1-15
+Added Pin To Net: NetName=R3_G Pin=U1-16
+Added Pin To Net: NetName=R2_R Pin=U1-17
+Added Pin To Net: NetName=R2_G Pin=U1-18
+Added Pin To Net: NetName=R1_R Pin=U1-19
+Added Pin To Net: NetName=R1_G Pin=U1-20
+Added Pin To Net: NetName=R5_G Pin=U1-27
+Added Pin To Net: NetName=R5_R Pin=U1-28
+Added Pin To Net: NetName=R6_G Pin=U1-29
+Added Pin To Net: NetName=R6_R Pin=U1-30
+Added Pin To Net: NetName=R7_G Pin=U1-31
+Added Pin To Net: NetName=R7_R Pin=U1-32
+Added Pin To Net: NetName=R8_G Pin=U1-33
+Added Pin To Net: NetName=R8_R Pin=U1-34
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R29-2
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=Dot_Matrix Member=Component LED1 LED SMD 0805 RED
+Added Member To Class: ClassName=Dot_Matrix Member=Component R29 470

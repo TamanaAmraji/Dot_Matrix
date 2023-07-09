@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=R1_G Pin=R27-1
+Added Net: Name=R1_G
+Added Pin To Net: NetName=R2_G Pin=R23-1
+Added Net: Name=R2_G
+Added Pin To Net: NetName=R3_G Pin=R14-1
+Added Net: Name=R3_G
+Added Pin To Net: NetName=R4_G Pin=R8-1
+Added Net: Name=R4_G
+Added Member To Class: ClassName=Dot_Matrix Member=Component J4 HDRF12
+Added Member To Class: ClassName=Dot_Matrix Member=Component R8 100
+Added Member To Class: ClassName=Dot_Matrix Member=Component R10 100
+Added Member To Class: ClassName=Dot_Matrix Member=Component R11 100
+Added Member To Class: ClassName=Dot_Matrix Member=Component R13 100
+Added Member To Class: ClassName=Dot_Matrix Member=Component R14 100
+Added Member To Class: ClassName=Dot_Matrix Member=Component R15 100
+Added Member To Class: ClassName=Dot_Matrix Member=Component R16 100
+Added Member To Class: ClassName=Dot_Matrix Member=Component R23 100
