@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=Dot_Matrix Member=D1
+Added Component: Designator=J5(HDR_1X2)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM2"; VariantName = "[No Variations]"
+Added Component: Designator=J6(HDR_1X2)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA0 Pin=R30-2
+Added Pin To Net: NetName=PA0 Pin=S1-5
+Added Pin To Net: NetName=PA0 Pin=U1-10
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=R12-2
+Added Pin To Net: NetName=PA1 Pin=S1-6
+Added Pin To Net: NetName=PA1 Pin=U1-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PB3 Pin=R29-1
+Added Pin To Net: NetName=PB3 Pin=U1-39
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=J5-1
+Added Pin To Net: NetName=PB4 Pin=U1-40
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=J5-2
+Added Pin To Net: NetName=PB5 Pin=U1-41
+Added Net: Name=PB5
+Added Member To Class: ClassName=Dot_Matrix Member=Component J5 HDRM2
+Added Member To Class: ClassName=Dot_Matrix Member=Component J6 HDRM2
